@@ -1,4 +1,4 @@
-####   Hi there, I'm Daisy !
+#####Hi there, I'm Daisy !
  
 Aspiring Application Developer
 
